@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devgirlcodes
+- 👋 Hi, I’m Akshita
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS, JS, React
 - 💞️ I’m looking to collaborate on web based projects
